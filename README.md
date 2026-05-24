@@ -28,10 +28,11 @@ A continuación, se detallan las certificaciones obtenidas, dispuestas en orden 
 | **Junio 2024** | Big Data & Data Analytics | Agencia de Habilidades para el Futuro | 
 | **Julio 2025** | Business Intelligence | Agencia de Habilidades para el Futuro | 
 | **Diciembre 2025**| Data Analytics con Python | Talento Tech |
-
+| **Junio 2026**| Machine Learning con Python | Talento Tech |
 
 ## 🚀 Proyectos Destacados Relacionados
 A partir de estos aprendizajes, he desarrollado soluciones integrales que combinan la potencia del backend relacional con interfaces dinámicas, orientadas a la optimización de procesos de gestión y análisis analítico.
 
 ## Actualmente cursaldo 
-| **Junio 2026**| Machine Learning con Python | Talento Tech |
+
+Machine Learning con Python
