@@ -33,6 +33,6 @@ A continuación, se detallan las certificaciones obtenidas, dispuestas en orden 
 ## 🚀 Proyectos Destacados Relacionados
 A partir de estos aprendizajes, he desarrollado soluciones integrales que combinan la potencia del backend relacional con interfaces dinámicas, orientadas a la optimización de procesos de gestión y análisis analítico.
 
-## Actualmente cursaldo 
+## Actualmente cursando 
 
 Machine Learning con Python
