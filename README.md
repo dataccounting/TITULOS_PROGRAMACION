@@ -1,42 +1,37 @@
-📑 Mi Trayectoria Contable: De la Base Nacional a la Especialización Tributaria
-"La contabilidad no es solo registrar números, es interpretar la realidad económica para la toma de decisiones estratégicas."
+# 📜 Certificaciones y Trayectoria Académica en Datos
 
-🏛️ Los Cimientos: Formación de Grado y Especialización
-Aquí comenzó mi camino, construyendo la base técnica necesaria para entender el ecosistema legal y fiscal de Argentina.
+¡Bienvenido a mi sección de certificaciones! En este apartado de mi portafolio, comparto los respaldos académicos y profesionales que validan mis competencias técnicas en el diseño de bases de datos, el análisis avanzado y la implementación de modelos de aprendizaje automático.
 
-Contador Público Nacional (CPN)
-Fecha: Diciembre 2008
+Cada una de estas certificaciones cuenta con su respectivo comprobante digital dentro de esta carpeta, organizados para demostrar un crecimiento continuo y un fuerte compromiso con la excelencia técnica.
 
-Este título marcó el inicio de mi compromiso con la transparencia y la rigurosidad analítica. Desde entonces, he aplicado los principios contables con una visión integral del negocio.
+---
+
+## 🛠️ Matriz de Competencias Técnicas
+
+A lo largo de mi formación, he consolidado un perfil analítico e integral enfocado en la conversión de datos crudos en activos estratégicos. Mis habilidades clave se agrupan en los siguientes pilares:
+
+* **Ingeniería de Datos Relacionales:** Capacidad para diseñar, estructurar y optimizar bases de datos relacionales desde cero utilizando SQL, garantizando la integridad y disponibilidad de la información.
+* **Análisis Exploratorio y Avanzado con SQL:** Dominio de consultas complejas, uniones, funciones de agregación y subconsultas orientadas a la extracción de insights y la resolución de problemas de negocio.
+* **Inteligencia de Negocios (BI):** Creación de dashboards interactivos e intuitivos en *Power BI*, modelado de datos eficiente e implementación de lógica de negocio avanzada mediante el lenguaje *DAX*.
+* **Data Science con Python:** Uso avanzado del ecosistema de Python (Pandas, NumPy, Matplotlib, Seaborn) para la limpieza, manipulación, análisis estadístico y visualización de grandes volúmenes de datos.
+* **Inteligencia Artificial Aplicada:** Comprensión e implementación de algoritmos de *Machine Learning* (supervisado y no supervisado) y arquitecturas de *Deep Learning* para la detección de patrones, proyecciones y automatizaciones analíticas.
+
+---
+
+## 🏆 Historial de Certificaciones Principales
+
+A continuación, se detallan las certificaciones obtenidas, dispuestas en orden cronológico, que respaldan mis conocimientos teóricos y prácticos:
+
+| Fecha | Certificación | Institución / Organización 
+| :--- | :--- | :--- 
+| **Noviembre 2023** | Analista de Datos en Python | Escuela de Ingeniería - Universidad de Chilecito 
+| **Junio 2024** | Big Data & Data Analytics | Agencia de Habilidades para el Futuro | 
+| **Julio 2025** | Business Intelligence | Agencia de Habilidades para el Futuro | 
+| **Diciembre 2025**| Data Analytics con Python | Talento Tech |
 
 
-Especialista Tributarista
-Fecha: Diciembre 2012
+## 🚀 Proyectos Destacados Relacionados
+A partir de estos aprendizajes, he desarrollado soluciones integrales que combinan la potencia del backend relacional con interfaces dinámicas, orientadas a la optimización de procesos de gestión y análisis analítico.
 
-Con el fin de profundizar en la complejidad del sistema impositivo, me especialicé en materia tributaria, permitiéndome asesorar con precisión en un entorno fiscal siempre cambiante.
-
-🛠️ Evolución y Actualización Constante
-El derecho contable y laboral no es estático. Mi enfoque siempre ha sido la actualización permanente para garantizar el cumplimiento normativo (Compliance).
-
-Liquidación de Sueldos & Diplomatura Contable
-Fechas: Febrero 2022 | Octubre 2021
-
-Consolidando la práctica operativa y técnica en la gestión de capital humano y estados contables modernos.
-
-Auditoría Externa e Interna
-Fecha: Diciembre 2023
-
-Fortalecí mis capacidades de control y revisión, asegurando que cada proceso contable refleje la imagen fiel de la organización.
-
-📈 Presente y Futuro: Liderazgo y Procedimientos
-Actualmente, mi formación se centra en la optimización de procesos y el dominio avanzado de las nuevas normativas.
-
-Diplomatura Contable (En curso)
-Fecha: Octubre 2025 – Abril 2026
-
-Manteniéndome a la vanguardia de las últimas tendencias y estándares internacionales de contabilidad.
-
-Procedimientos Tributarios
-Fecha: Diciembre 2025
-
-Especialización técnica en la defensa y gestión de procesos ante organismos recaudadores, cerrando un círculo de formación de alto nivel.
+## Actualmente cursaldo 
+| **Junio 2026**| Machine Learning con Python | Talento Tech |
